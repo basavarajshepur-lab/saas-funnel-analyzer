@@ -145,4 +145,4 @@ saas-funnel-analyzer/
 
 ## About
 
-Built by [Basavaraj Shepur](https://linkedin.com/in/basavarajshepur) — Senior AI Product Manager with 19 years in financial services and SaaS, specialising in AI product strategy, growth, and multi-agent systems.
+Built by [Basavaraj Shepur](https://linkedin.com/in/basavarajshepur) — Senior AI Product Manager with 19 years in financial services, specialising in AI product strategy, growth, and multi-agent systems.
