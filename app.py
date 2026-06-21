@@ -350,7 +350,7 @@ with tab_report:
         with dl1:
             st.download_button(
                 "⬇️ Download Full Report (JSON)",
-                data=report.model_dump_json(indent=2, default=str),
+                data=report.model_dump_json(indent=2),
                 file_name=f"funnel_report_{report.funnel_metrics.funnel_name.replace(' ', '_')}.json",
                 mime="application/json",
                 use_container_width=True,
